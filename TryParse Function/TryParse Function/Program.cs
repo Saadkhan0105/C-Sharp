@@ -10,9 +10,11 @@ namespace TryParse_Function
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number");
+            Console.Write("Enter a number");
             string numInput = Console.ReadLine();
-            int num = Convert.ToInt32(numInput);
+            int num = 0;
+
+            int.TryParse(numInput, out num);
 
             Console.WriteLine(num);
 
