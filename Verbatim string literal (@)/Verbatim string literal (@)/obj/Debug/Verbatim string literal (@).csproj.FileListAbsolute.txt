@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\bin\Debug\Verbatim string literal (@).exe.config
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\bin\Debug\Verbatim string literal (@).exe
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\bin\Debug\Verbatim string literal (@).pdb
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\obj\Debug\Verbatim string literal (@).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\obj\Debug\Verbatim string literal (@).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\obj\Debug\Verbatim string literal (@).exe
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\obj\Debug\Verbatim string literal (@).pdb
+C:\Users\Admin\Desktop\C-sharp\Verbatim string literal (@)\Verbatim string literal (@)\obj\Debug\Verbatim string literal (@).exe.config
