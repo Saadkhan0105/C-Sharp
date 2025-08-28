@@ -41,7 +41,6 @@ namespace Exercise___FizzBuzz_Game
                     Console.WriteLine(i);
                 }
             }
-
             Console.ReadLine();
         }
     }
