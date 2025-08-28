@@ -10,15 +10,27 @@ namespace TryParse_Function
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a number");
-            string numInput = Console.ReadLine();
-            int num = 0;
+            bool success = true;
 
-            int.TryParse(numInput, out num);
+            while (success)
+            {
+                Console.Write("Enter a number: ");
+                string numInput = Console.ReadLine();
 
-            Console.WriteLine(num);
+                if (int.TryParse(numInput, out int num))
+                {
+                    success = false;
+                    Console.WriteLine(num);
+                }
+                else
+                {
+                    Console.WriteLine("Failed to Convert!");
+                }
 
-            Console.ReadLine();
+            }
+            
+                Console.ReadLine();
         }
     }
 }
+
