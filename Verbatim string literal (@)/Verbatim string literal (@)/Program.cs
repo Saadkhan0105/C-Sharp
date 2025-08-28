@@ -21,6 +21,9 @@ namespace Verbatim_string_literal____
             path = @"C:\Users\Admin\Desktop\C - sharp";
             Console.WriteLine(path);
 
+            string name  = @"Hello ""John""";
+            Console.WriteLine(name);
+
             Console.ReadLine();
         }
     }
