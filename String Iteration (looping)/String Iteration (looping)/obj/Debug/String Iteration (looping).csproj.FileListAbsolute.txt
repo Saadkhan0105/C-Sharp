@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\bin\Debug\String Iteration (looping).exe.config
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\bin\Debug\String Iteration (looping).exe
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\bin\Debug\String Iteration (looping).pdb
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\obj\Debug\String Iteration (looping).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\obj\Debug\String Iteration (looping).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\obj\Debug\String Iteration (looping).exe
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\obj\Debug\String Iteration (looping).pdb
+C:\Users\Admin\Desktop\C-sharp\String Iteration (looping)\String Iteration (looping)\obj\Debug\String Iteration (looping).exe.config
