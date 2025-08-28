@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\bin\Debug\Exercise - FizzBuzz Game.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\bin\Debug\Exercise - FizzBuzz Game.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\bin\Debug\Exercise - FizzBuzz Game.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\obj\Debug\Exercise - FizzBuzz Game.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\obj\Debug\Exercise - FizzBuzz Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\obj\Debug\Exercise - FizzBuzz Game.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\obj\Debug\Exercise - FizzBuzz Game.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - FizzBuzz Game\Exercise - FizzBuzz Game\obj\Debug\Exercise - FizzBuzz Game.exe.config
