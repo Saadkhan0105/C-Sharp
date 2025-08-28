@@ -29,13 +29,20 @@ namespace Exercise___Password_Checker
             {
                 if (!passwordC.Equals(string.Empty))
                 {
-                    if (password.Equals(passwordC))
+                    if (password.Length > 6 && passwordC.Length >= 6)
                     {
-                        Console.WriteLine("Your password is matched");
+                        if (password.Equals(passwordC))
+                        {
+                            Console.WriteLine("Your password is matched");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Your passwords do not match");
+                        }
                     }
                     else
                     {
-                        Console.WriteLine("Your passwords do not match");
+                        Console.WriteLine("Your password must be at least 6 characters long");
                     }
                 }
                 else
