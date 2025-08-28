@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\bin\Debug\String Equals Function.exe.config
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\bin\Debug\String Equals Function.exe
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\bin\Debug\String Equals Function.pdb
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\obj\Debug\String Equals Function.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\obj\Debug\String Equals Function.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\obj\Debug\String Equals Function.exe
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\obj\Debug\String Equals Function.pdb
+C:\Users\Admin\Desktop\C-sharp\String Equals Function\String Equals Function\obj\Debug\String Equals Function.exe.config
