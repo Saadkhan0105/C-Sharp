@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\bin\Debug\String IsNullOrEmpty Function.exe.config
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\bin\Debug\String IsNullOrEmpty Function.exe
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\bin\Debug\String IsNullOrEmpty Function.pdb
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\obj\Debug\String IsNullOrEmpty Function.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\obj\Debug\String IsNullOrEmpty Function.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\obj\Debug\String IsNullOrEmpty Function.exe
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\obj\Debug\String IsNullOrEmpty Function.pdb
+C:\Users\Admin\Desktop\C-sharp\String IsNullOrEmpty Function\String IsNullOrEmpty Function\obj\Debug\String IsNullOrEmpty Function.exe.config
