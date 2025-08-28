@@ -20,6 +20,8 @@ namespace String_Concatenation____
             string test = string.Concat("Your name is " , name, " and your age is ", age);
             Console.WriteLine(test);
 
+            string[] names = new string[]{ "Saad ", "Abuzar ", "Nadeem " };
+            Console.WriteLine(string.Concat(names));
 
             Console.ReadLine();
         }
