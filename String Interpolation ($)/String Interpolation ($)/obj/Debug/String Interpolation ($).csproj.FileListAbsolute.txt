@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\bin\Debug\String Interpolation ($).exe.config
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\bin\Debug\String Interpolation ($).exe
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\bin\Debug\String Interpolation ($).pdb
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\obj\Debug\String Interpolation ($).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\obj\Debug\String Interpolation ($).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\obj\Debug\String Interpolation ($).exe
+C:\Users\Admin\Desktop\C-sharp\String Interpolation ($)\String Interpolation ($)\obj\Debug\String Interpolation ($).pdb
