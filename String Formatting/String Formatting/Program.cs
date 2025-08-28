@@ -20,6 +20,9 @@ namespace String_Formatting
 
             Console.WriteLine("Name: " + name + "\nAge: " + age);
 
+            Console.WriteLine("Your name is " + name + " and your age is " + age);
+            Console.WriteLine("Your name is {0} and your age is {1}", name, age);
+
             Console.ReadLine();
         }
     }
