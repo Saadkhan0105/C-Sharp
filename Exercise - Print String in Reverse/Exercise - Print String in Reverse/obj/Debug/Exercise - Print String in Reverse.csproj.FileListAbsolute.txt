@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\bin\Debug\Exercise - Print String in Reverse.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\bin\Debug\Exercise - Print String in Reverse.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\bin\Debug\Exercise - Print String in Reverse.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\obj\Debug\Exercise - Print String in Reverse.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\obj\Debug\Exercise - Print String in Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\obj\Debug\Exercise - Print String in Reverse.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\obj\Debug\Exercise - Print String in Reverse.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Print String in Reverse\Exercise - Print String in Reverse\obj\Debug\Exercise - Print String in Reverse.exe.config
