@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\bin\Debug\Exercise - Times Table.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\bin\Debug\Exercise - Times Table.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\bin\Debug\Exercise - Times Table.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Times Table\Exercise - Times Table\obj\Debug\Exercise - Times Table.exe.config
