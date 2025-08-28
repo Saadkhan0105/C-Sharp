@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\bin\Debug\String Formatting.exe.config
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\bin\Debug\String Formatting.exe
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\bin\Debug\String Formatting.pdb
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\obj\Debug\String Formatting.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\obj\Debug\String Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\obj\Debug\String Formatting.exe
+C:\Users\Admin\Desktop\C-sharp\String Formatting\String Formatting\obj\Debug\String Formatting.pdb
