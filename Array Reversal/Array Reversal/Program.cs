@@ -10,17 +10,33 @@ namespace Array_Reversal
     {
         static void Main(string[] args)
         {
-            int[] num = new int[]
+            int[] numbers = new int[]
             { 
                 0, 1, 2, 3, 4, 5 
             };
 
-            Array.Reverse(num);
+            int x = 0;
 
-            foreach (var item in num)
+            int[] sortedNumbers = new int[numbers.Length];
+
+            for (int i = numbers.Length - 1; i >= 0; i--)
+            {
+                sortedNumbers[x] = numbers[i];
+                x++;
+            }
+
+            foreach (var num in sortedNumbers)
+            {
+                Console.Write($"{num} ");
+            }
+
+            /*
+            Array.Reverse(numbers);
+            foreach (var item in numbers)
             {
                 Console.Write($"{item} ");
             }
+            */
 
             Console.ReadLine();
         }
