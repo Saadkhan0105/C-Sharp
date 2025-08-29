@@ -26,7 +26,7 @@ namespace Array_IndexOf
             { 
                 Console.WriteLine($"The number {search} is found at position {position + 1}");
             }
-            else
+            else 
             {
                 Console.WriteLine($"The number {search} is not found in the array");
 
