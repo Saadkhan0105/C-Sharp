@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\obj\Debug\Lists.pdb
+C:\Users\Admin\Desktop\C-sharp\Lists\Lists\obj\Debug\Lists.exe.config
