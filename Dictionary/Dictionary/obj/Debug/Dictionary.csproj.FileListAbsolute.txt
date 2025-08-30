@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Admin\Desktop\C-sharp\Dictionary\Dictionary\obj\Debug\Dictionary.exe.config
