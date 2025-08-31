@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\bin\Debug\Exercise - Odd-Even number split.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\bin\Debug\Exercise - Odd-Even number split.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\bin\Debug\Exercise - Odd-Even number split.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\obj\Debug\Exercise - Odd-Even number split.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\obj\Debug\Exercise - Odd-Even number split.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\obj\Debug\Exercise - Odd-Even number split.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Odd-Even number split\Exercise - Odd-Even number split\obj\Debug\Exercise - Odd-Even number split.pdb
