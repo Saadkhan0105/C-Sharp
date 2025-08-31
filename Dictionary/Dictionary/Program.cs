@@ -39,7 +39,25 @@ namespace Dictionary
                 { "Science", "Test" }
             };
 
-            Console.WriteLine(teachers["Math"]);
+            //Console.WriteLine(teachers["Math"]);
+
+            if (teachers.TryGetValue("Math", out string teacher))
+            {
+                Console.WriteLine(teacher);
+
+                teachers["Math"] = "Joe";
+            }
+            else
+            {
+                Console.WriteLine("Math teacher not found");
+            }
+
+            teachers.Remove("math");
+
+            foreach (var item in teachers)
+            {
+                Console.WriteLine($"{item.Key} - {item.Value}");
+            }
 
             Console.ReadLine(); 
         }
