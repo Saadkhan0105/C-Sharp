@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\bin\Debug\Exercise - Array of Multiples.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\bin\Debug\Exercise - Array of Multiples.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\bin\Debug\Exercise - Array of Multiples.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Array of Multiples\Exercise - Array of Multiples\obj\Debug\Exercise - Array of Multiples.exe.config
