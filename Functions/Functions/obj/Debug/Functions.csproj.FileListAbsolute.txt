@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\Admin\Desktop\C-sharp\Functions\Functions\obj\Debug\Functions.exe.config
