@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdoDemo.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e1138afdfb7084de9e2a95e44bd87a263308f9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a136e684c34d75f7ce4b8f428f5221f1ba61ac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdoDemo.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdoDemo.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

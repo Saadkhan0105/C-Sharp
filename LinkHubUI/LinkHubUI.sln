@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkHubUI.AppHost", "LinkHubUI.AppHost\LinkHubUI.AppHost.csproj", "{4DC274A4-B106-4CC9-A30F-43AC63E895B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkHubUI.ServiceDefaults", "LinkHubUI.ServiceDefaults\LinkHubUI.ServiceDefaults.csproj", "{0D6F4657-32F0-8308-399E-1526EF0A248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC274A4-B106-4CC9-A30F-43AC63E895B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC274A4-B106-4CC9-A30F-43AC63E895B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC274A4-B106-4CC9-A30F-43AC63E895B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC274A4-B106-4CC9-A30F-43AC63E895B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6F4657-32F0-8308-399E-1526EF0A248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6F4657-32F0-8308-399E-1526EF0A248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6F4657-32F0-8308-399E-1526EF0A248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6F4657-32F0-8308-399E-1526EF0A248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3043362D-FB10-4439-B846-AD0BAD7078AE}
+	EndGlobalSection
+EndGlobal
