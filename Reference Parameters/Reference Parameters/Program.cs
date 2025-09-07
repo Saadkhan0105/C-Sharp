@@ -11,12 +11,12 @@ namespace Reference_Parameters
         static void Main(string[] args)
         {
             int num = 10;
-            Assign(num);
+            Assign(ref num);
             Console.WriteLine(num);
 
             Console.ReadLine();
         }
-        static void Assign(int  num)
+        static void Assign(ref int  num)
         {
             num =  20;
         }
