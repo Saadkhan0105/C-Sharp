@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\bin\Debug\Exercise- Area of a Triangle.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\bin\Debug\Exercise- Area of a Triangle.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\bin\Debug\Exercise- Area of a Triangle.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\obj\Debug\Exercise- Area of a Triangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\obj\Debug\Exercise- Area of a Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\obj\Debug\Exercise- Area of a Triangle.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\obj\Debug\Exercise- Area of a Triangle.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise- Area of a Triangle\Exercise- Area of a Triangle\obj\Debug\Exercise- Area of a Triangle.exe.config
