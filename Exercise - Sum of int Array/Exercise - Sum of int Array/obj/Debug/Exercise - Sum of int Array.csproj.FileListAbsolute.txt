@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\obj\Debug\Exercise - Sum of int Array.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\obj\Debug\Exercise - Sum of int Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\bin\Debug\Exercise - Sum of int Array.exe.config
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\bin\Debug\Exercise - Sum of int Array.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\bin\Debug\Exercise - Sum of int Array.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\obj\Debug\Exercise - Sum of int Array.exe
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\obj\Debug\Exercise - Sum of int Array.pdb
+C:\Users\Admin\Desktop\C-sharp\Exercise - Sum of int Array\Exercise - Sum of int Array\obj\Debug\Exercise - Sum of int Array.exe.config
